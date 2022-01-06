@@ -1,0 +1,11 @@
+C:\Users\Yana\Desktop\ExamThreadSearchByMask\ExamDllThreadSearchByMask\bin\Debug\ExamDllThreadSearchByMask.exe.config
+C:\Users\Yana\Desktop\ExamThreadSearchByMask\ExamDllThreadSearchByMask\bin\Debug\ExamDllThreadSearchByMask.exe
+C:\Users\Yana\Desktop\ExamThreadSearchByMask\ExamDllThreadSearchByMask\bin\Debug\ExamDllThreadSearchByMask.pdb
+C:\Users\Yana\Desktop\ExamThreadSearchByMask\ExamDllThreadSearchByMask\obj\Debug\ExamDllThreadSearchByMask.csproj.AssemblyReference.cache
+C:\Users\Yana\Desktop\ExamThreadSearchByMask\ExamDllThreadSearchByMask\obj\Debug\ExamDllThreadSearchByMask.Form1.resources
+C:\Users\Yana\Desktop\ExamThreadSearchByMask\ExamDllThreadSearchByMask\obj\Debug\ExamDllThreadSearchByMask.Form2.resources
+C:\Users\Yana\Desktop\ExamThreadSearchByMask\ExamDllThreadSearchByMask\obj\Debug\ExamDllThreadSearchByMask.Properties.Resources.resources
+C:\Users\Yana\Desktop\ExamThreadSearchByMask\ExamDllThreadSearchByMask\obj\Debug\ExamDllThreadSearchByMask.csproj.GenerateResource.cache
+C:\Users\Yana\Desktop\ExamThreadSearchByMask\ExamDllThreadSearchByMask\obj\Debug\ExamDllThreadSearchByMask.csproj.CoreCompileInputs.cache
+C:\Users\Yana\Desktop\ExamThreadSearchByMask\ExamDllThreadSearchByMask\obj\Debug\ExamDllThreadSearchByMask.exe
+C:\Users\Yana\Desktop\ExamThreadSearchByMask\ExamDllThreadSearchByMask\obj\Debug\ExamDllThreadSearchByMask.pdb
